@@ -1,7 +1,0 @@
-src/main/java/search/Document.java
-src/main/java/search/IndexedSearcher.java
-src/main/java/search/SearchResult.java
-src/main/java/search/StringSearcher.java
-src/main/java/search/RegexSearcher.java
-src/main/java/search/DocumentSearchApp.java
-src/main/java/search/Searcher.java
